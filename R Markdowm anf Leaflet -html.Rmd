@@ -1,7 +1,5 @@
 ---
 title: 'Peer-graded Assignment: R Markdown and Leaflet'
-author: "Swati"
-date: '2022-04-03'
 output: html_document
 ---
 
